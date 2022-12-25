@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rafaykhan-source/banana-bot#readme",
   "dependencies": {
-    "discord.js": "^14.7.1"
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
   }
 }
