@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rafaykhan-source/banana-bot/issues"
   },
-  "homepage": "https://github.com/rafaykhan-source/banana-bot#readme"
+  "homepage": "https://github.com/rafaykhan-source/banana-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
 }
