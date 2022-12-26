@@ -27,6 +27,7 @@ function formatDefinitionReponse(data) {
     (meaning) => meaning.partOfSpeech
   );
   // Maps meanings to their parts of speech.
+  // TODO: Clean this up
   const definitions = closestDefinitions.meanings.map(
     (meaning) =>
       `${meaning.partOfSpeech}:\n\t${meaning.definitions
